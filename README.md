@@ -20,7 +20,7 @@ Show free pages amount manually.
 trace process and return the value of process that you want to trace
 
 ## Reference
-https://hackmd.io/@Chang-Chia-Chi/rJUgZ6bqK#System-call-tracing-moderate
-https://blog.csdn.net/LostUnravel/article/details/121319645
-https://www.cnblogs.com/YuanZiming/p/14218997.html
-https://cs631.cs.usfca.edu/guides/adding-a-syscall-to-xv6
+https://hackmd.io/@Chang-Chia-Chi/rJUgZ6bqK#System-call-tracing-moderate  
+https://blog.csdn.net/LostUnravel/article/details/121319645  
+https://www.cnblogs.com/YuanZiming/p/14218997.html  
+https://cs631.cs.usfca.edu/guides/adding-a-syscall-to-xv6  
